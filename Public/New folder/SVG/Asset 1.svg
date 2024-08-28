@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 762 519">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #050000;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="386.5" y="157.5" width="375" height="361" rx="48" ry="48"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-1" x=".5" y=".5" width="375" height="361" rx="48" ry="48"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g class="cls-4">
+        <image width="5316" height="7000" transform="translate(365.72 113.5) scale(.08)" xlink:href="../../../../../../../Downloads/watercolor-hospital-health-care-illustration.jpg"/>
+      </g>
+      <rect class="cls-2" x="386.5" y="157.5" width="375" height="361" rx="48" ry="48"/>
+    </g>
+    <g>
+      <g class="cls-3">
+        <image width="7000" height="5316" transform="translate(-22.35 -.5) scale(.07)" xlink:href="../../../../../../../Downloads/watercolor-hospital-health-care-illustration (1).jpg"/>
+      </g>
+      <rect class="cls-1" x=".5" y=".5" width="375" height="361" rx="48" ry="48"/>
+    </g>
+  </g>
+</svg>
